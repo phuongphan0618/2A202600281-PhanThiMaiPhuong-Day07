@@ -276,8 +276,8 @@ Chạy 5 benchmark queries của nhóm trên implementation cá nhân của bạ
 | Document selection | Nhóm | 10 / 10 |
 | Chunking strategy | Nhóm | 13 / 15 |
 | My approach | Cá nhân | 8 / 10 |
-| Similarity predictions | Cá nhân | / 5 |
+| Similarity predictions | Cá nhân | 4 / 5 |
 | Results | Cá nhân | 9 / 10 |
-| Core implementation (tests) | Cá nhân | 28 / 30 |
+| Core implementation (tests) | Cá nhân | 29 / 30 |
 | Demo | Nhóm | 4 / 5 |
-| **Tổng** | | **/ 100** |
+| **Tổng** | | **90/ 100** |
